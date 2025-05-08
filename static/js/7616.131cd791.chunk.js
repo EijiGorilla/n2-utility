@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_utility=self.webpackChunkn2_utility||[]).push([[7616],{7616:(n,t,u)=>{u.r(t),u.d(t,{computeBBox:()=>i,getBoundingBox:()=>e,getTransformMatrix:()=>o});var r=u(66984);function e(n){return(0,r.UX)(n)}function i(n){return(0,r.Ru)(n)}function o(n,t,u,e,i,o,c,f,s){return(0,r.G4)(n,t,u,e,i,o,c,f,s)}}}]);
+//# sourceMappingURL=7616.131cd791.chunk.js.map
